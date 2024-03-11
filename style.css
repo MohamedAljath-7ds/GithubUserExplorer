@@ -1,0 +1,58 @@
+.Header-input{
+    text-align: center;
+    border: 2px;
+    border-color: black;
+}
+input{
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+    color: black;
+}
+
+#submitButton{
+    padding: 20px;
+    border-radius: 7px;
+    background-color: lawngreen;
+    width: 100px;
+    transition: 1s;
+}
+
+#submitButton:hover{
+    background-color: green;
+    
+}
+
+
+body{
+    background: #253529;
+}
+
+.usercard {
+    text-align: center;
+    background-color: #2f4f4f;
+    box-shadow: #2f4f4f 2px 2px 2px;
+    padding: 20px;
+    border-radius: 6px;
+    width: 90%; /* Adjust width to fit the screen */
+    max-width: 400px; /* Maximum width */
+    margin: 50px auto; /* Center the element horizontally and add margin top/bottom */
+    color: white;
+}
+
+.userimage{
+    border-radius: 50px;
+    width: 100px;
+}
+
+.word{
+    text-align: center;
+    color: gray;
+}
+
+.desc{
+    text-align: center;
+    color: gray;
+    font-family: sans-serif;
+}
